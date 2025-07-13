@@ -57,38 +57,15 @@ pip install -r requirements.txt
 ├── README.md
 ```
 
-📡 Suggested Data Sources
-You can pull similar data from:
 
-📊 FRED – Economic indicators
-
-📈 Yahoo Finance – SP500 historical prices
-
-🧠 CBOE – VIX index
-
-🧪 Quandl – Optional alt-data
-
-⛔ Data not included — I’m gatekeeping it like a true quant.
-
-🚀 Getting Started
-Once you have the data:
-
-bash
-Copy
-Edit
-python scripts/train_model.py
-Or use the interactive Jupyter notebooks in the /notebooks folder.
-
-🧠 Contributions
+#🧠 Contributions
 This is a personal research project, but feel free to fork or submit improvements.
 
-📜 License
+#📜 License
 MIT License.
 Data not included. Find it yourself like a real quant 🔎
 
-yaml
-Copy
-Edit
+
 
 ---
 
