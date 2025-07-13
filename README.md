@@ -43,7 +43,7 @@ This project demonstrates how to use machine learning to predict the S&P 500 usi
 - (optional) `fredapi` for pulling macro data from FRED
 
 
-##📁 Project Structure
+## 📁 Project Structure
 ```graphql
 .
 ├── data/              # You bring your own datasets
@@ -53,10 +53,10 @@ This project demonstrates how to use machine learning to predict the S&P 500 usi
 ```
 
 
-##🧠 Contributions
+## 🧠 Contributions
 This is a personal research project, but feel free to fork or submit improvements.
 
-##📜 License
+## 📜 License
 MIT License.
 Data not included. Find it yourself like a real quant 🔎
 
