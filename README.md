@@ -42,11 +42,6 @@ This project demonstrates how to use machine learning to predict the S&P 500 usi
 - seaborn
 - (optional) `fredapi` for pulling macro data from FRED
 
-Install with:
-
-```bash
-pip install -r requirements.txt
-```
 
 #📁 Project Structure
 ```graphql
