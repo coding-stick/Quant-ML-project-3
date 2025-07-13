@@ -64,8 +64,4 @@ Data not included. Find it yourself like a real quant 🔎
 
 ---
 
-Let me know if you want:
-- A sample `.gitignore`
-- `requirements.txt`
-- A `train_model.py` scaffold
-- README badges (e.g., Python version, license, stars)
+
